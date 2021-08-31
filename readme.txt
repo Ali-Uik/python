@@ -9,4 +9,4 @@ pip install Django – установка Django
 django-admin – список команд в Django
 django-admin startproject “имя проекта” – создание проекта
 python manage.py runserver – старт проекта
-python manage.py startapp 'имя' - создание новой приложении
+python manage.py startapp 'имя' - создание нового модуля(приложения)
