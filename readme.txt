@@ -15,7 +15,21 @@ Mark directory as -> source root
 python manage.py makemigrations - создание миграции
 python manage.py migrate - выполнение миграции
 python manage.py shell - командная среда django
+from news.models import News
+News.objects.all() - получение всех записей в таблице News
+News.objects.order_by('id')
 News.objects.create(title='Новость ', content='Контент новости ') - запись в базу данных
+News.objects.filter(title='News5') -
+news.save() - сохранить запись
 
 
+
+
+
+
+
+
+ЛИТЕРАТУРЫ
+https://djbook.ru/
+https://django.fun/docs/django/ru/3.2/topics/db/queries/ - Работа с запросами
 
