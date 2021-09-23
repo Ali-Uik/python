@@ -33,3 +33,13 @@ news.save() - сохранить запись
 https://djbook.ru/
 https://django.fun/docs/django/ru/3.2/topics/db/queries/ - Работа с запросами
 
+
+
+Горячие клавиши pycharm
+View -> Active Editor -> Use Soft Wraps - перенос слов
+Ctrl + Alt + I - Выравнивание отступов в коде
+Ctrl + Alt + L - Приведение кода в соответствие Code-Style
+Alt + F12 - терминал
+Shift + Esc - выход из етрминала
+Alt + left(right) - переход между терминалами
+
