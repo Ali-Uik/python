@@ -45,5 +45,5 @@ Alt + left(right) - переход между терминалами
 
 
 
-hello from home
+
 
